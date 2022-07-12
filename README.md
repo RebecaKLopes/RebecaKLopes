@@ -1,4 +1,6 @@
-### Olá, sejam bem vindos ao meu perfil!
+# Olá, sejam bem vindos ao meu perfil!
+## Meu nome é Rebeca, tenho 21 anos e sou estudante de ADS na Universidade Paulista.
+### Atualmente estou aprofundando meus estudos em JavaScript.
 
 <div align="center">
   <a href="https://github.com/RebecaKLopes">
