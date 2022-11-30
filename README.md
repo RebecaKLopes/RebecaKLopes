@@ -1,8 +1,7 @@
 # Hello I'm Rebecca. 
 ## Welcome to my profile.
-## I’m currently open for working!
-## I’m currently learning Javascript
-### I study ads at the UNIFIL
+## I study ads at the UNIFIL
+### I’m currently learning Javascript and open for working!
 
 <div align="center">
   <a href="https://github.com/RebecaKLopes">
