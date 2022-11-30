@@ -1,6 +1,8 @@
-# Olá, sejam bem vindos ao meu perfil!
-## Meu nome é Rebeca, moro em Londrina-PR
-### Atualmente estudo Análise e Desenvolvimento de Sistemas na Universidade Paulista e estou aprofundando meus estudos em JavaScript.
+# Hello I'm Rebecca. 
+## Welcome to my profile.
+## I’m currently open for working!
+## I’m currently learning Javascript
+### I study ads at the UNIFIL
 
 <div align="center">
   <a href="https://github.com/RebecaKLopes">
